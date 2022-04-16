@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Demo](https://coffeeroasters-subscription-site-zeta.vercel.app/)
+- [Live Demo](https://stupendous-khapse-4cf31c.netlify.app/)
 
 ## My process
 
